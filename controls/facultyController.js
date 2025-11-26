@@ -1,4 +1,9 @@
-const faculties = require("../modals/facultyModal");
+
+const faculties=require("../modals/facultymodals")
+
+
+
+
 
 
 
